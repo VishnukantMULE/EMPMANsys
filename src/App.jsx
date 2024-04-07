@@ -10,6 +10,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import EmpLogin from './Auth/Employee/EmpLogin'
 import EmpRegister from './Auth/Employee/EmpRegister'
 import HrLanding from './Pages/HR/HrLanding'
+// require('dotenv').config()  
 
 
 function App() {
